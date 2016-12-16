@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sylvestreho/AdminThemeBundle.git",
-                "reference": "b96e68a6dda22aeb1f309ed4d32e013232d60316"
+                "reference": "97f9bf2212b84e8c74c3be7a92b090a37d83a35f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sylvestreho/AdminThemeBundle/zipball/b96e68a6dda22aeb1f309ed4d32e013232d60316",
-                "reference": "b96e68a6dda22aeb1f309ed4d32e013232d60316",
+                "url": "https://api.github.com/repos/sylvestreho/AdminThemeBundle/zipball/97f9bf2212b84e8c74c3be7a92b090a37d83a35f",
+                "reference": "97f9bf2212b84e8c74c3be7a92b090a37d83a35f",
                 "shasum": ""
             },
             "require": {
